@@ -3,6 +3,7 @@
  [Charles Alaras](https://github.com/charlesalaras)  
  [Jared Tanuwidjaja](https://github.com/matchasaur)  
  [Sam Valls](https://github.com/SValls2023)
+ 
  [AJ Villamor](https://github.com/avil179)
  
 This repository contains solutions for Leetcode problems that I have completed, along with three other people.
